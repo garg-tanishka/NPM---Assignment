@@ -1,0 +1,19 @@
+{
+  "name": "assignment",
+  "version": "1.0.0",
+  "description": "NPM Assignment with six dependencies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tanishka Garg",
+  "license": "ISC",
+  "dependencies": {
+    "@angular/cli": "^8.3.29",
+    "bootstrap3": "*",
+    "express": "~4.17.0",
+    "lodash": "4.16.6",
+    "moment": "*",
+    "react": "*"
+  }
+}
